@@ -16,7 +16,10 @@ li a{
     text-align: center;
     text-decoration: none;
     min-width: 200px;
-    
+}
+
+li a:hover{
+    background-color:#222222;
 }
 
 h1{
