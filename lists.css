@@ -37,8 +37,8 @@ body{
     float:right;
     color: black;
     flex-direction:row;
-    width: 40%;
-    margin-right: 200px;
+    width: 45%;
+    margin-right: 40px;
 }
 
 .container div{
@@ -48,4 +48,5 @@ body{
     text-align: center;
     line-height: 30px;
     font-size: 15px;
+    padding:10px;
 }
